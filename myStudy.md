@@ -31,7 +31,9 @@
 
 # MySQL
 
+* 从根上理解MySQL
 
+  * <a href="http://note.youdao.com/noteshare?id=a9e96a547ecea6bfb67bf02747851384&sub=D9F9ADF9F03B4E58AE81CBD899DDAFA8">1.初始MySQL</a>
 
 # JVM
 
