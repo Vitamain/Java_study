@@ -23,7 +23,12 @@
 
 # 算法
 
+* LeetCode Hot 100
+  * <a href="http://note.youdao.com/noteshare?id=3381962ded61682f2a9919a3b1b0e73d&sub=42566069F45A467A8AE20DC641271007">01.两数之和</a>
+  * <a href="http://note.youdao.com/noteshare?id=1c79af763aafbe49e638b6066fab1660&sub=2D38B362B233463789317E98B46D21AE">02.两数相加</a>
 
+* 剑指Offer
+  * <a href="http://note.youdao.com/noteshare?id=8ad99d7e00142de221a4f5227558e70a&sub=2846EF7651934C48B209B837CA28F5E9">03.数组中重复的数字</a>
 
 # 数据结构
 
