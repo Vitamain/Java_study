@@ -31,8 +31,8 @@
 * 动态规划
   * <a href="http://note.youdao.com/noteshare?id=1df0c387bfeace766ee280a946ed0332&sub=714CE03245C24FCBA522D717EA4A1313">动态规划入门</a>
 * CodeTop
-  * <a href="http://note.youdao.com/noteshare?id=75894e43f434cdda5918814243f59f52&sub=0F61FBC577C24A60B6A756A97C558FBD">206.反转链表</a>
-  * <a href="http://note.youdao.com/noteshare?id=8bde8179d3b3c4d4f46d017e1ffc94d8&sub=6BE0D0DA8CF540D3B3650A86670821E3">215.数组中的最大K个元素</a>
+  * <a href="http://note.youdao.com/noteshare?id=69cf383f7019791c382bf603338313f7&sub=F1B12E94B47B462ABFD242A05285E2CF">206.反转链表</a>
+  * <a href="http://note.youdao.com/noteshare?id=156d23d4db7d1ba10c24aec63624a4de&sub=369CEA9AC7204F339A4BE32B6EB746BE">215.数组中的最大K个元素</a>
 
 # 数据结构
 
