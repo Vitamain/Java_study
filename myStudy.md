@@ -30,6 +30,9 @@
   * <a href="http://note.youdao.com/noteshare?id=8ad99d7e00142de221a4f5227558e70a&sub=2846EF7651934C48B209B837CA28F5E9">03.数组中重复的数字</a>
 * 动态规划
   * <a href="http://note.youdao.com/noteshare?id=1df0c387bfeace766ee280a946ed0332&sub=714CE03245C24FCBA522D717EA4A1313">动态规划入门</a>
+* CodeTop
+  * <a href="http://note.youdao.com/noteshare?id=75894e43f434cdda5918814243f59f52&sub=0F61FBC577C24A60B6A756A97C558FBD">206.反转链表</a>
+  * <a href="http://note.youdao.com/noteshare?id=8bde8179d3b3c4d4f46d017e1ffc94d8&sub=6BE0D0DA8CF540D3B3650A86670821E3">215.数组中的最大K个元素</a>
 
 # 数据结构
 
