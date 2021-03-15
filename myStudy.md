@@ -33,6 +33,12 @@
 * CodeTop
   * <a href="http://note.youdao.com/noteshare?id=69cf383f7019791c382bf603338313f7&sub=F1B12E94B47B462ABFD242A05285E2CF">206.反转链表</a>
   * <a href="http://note.youdao.com/noteshare?id=156d23d4db7d1ba10c24aec63624a4de&sub=369CEA9AC7204F339A4BE32B6EB746BE">215.数组中的最大K个元素</a>
+  * <a href="http://note.youdao.com/noteshare?id=9ce30b50c78f96b7d6fe4af4536f4df2&sub=FB22E20FF098437A95ECA97204C3F6E1">03.无重复字符的最大子串</a>
+  * <a href="http://note.youdao.com/noteshare?id=39b2bc80b7f0b196b28264e90de1ef01&sub=782BCB6A78A240BD9EFAB219CF375FBC">25.K个一组翻转链表</a>
+  * <a href="http://note.youdao.com/noteshare?id=efa47a02d0f5746c83a2a298f602b752&sub=CB4A3B8667E1408FBF9CF4081C542F0A">15.三数之和</a>
+* 学校作业
+  * <a href="http://note.youdao.com/noteshare?id=c983335d07100a6cf24296bf1fe0a0ed&sub=6C7BF5BF4B814907A203A5D79356D4A7">7.整数翻转</a>
+  * <a href="http://note.youdao.com/noteshare?id=a2ca9c482bbb30188f571e18870411ae&sub=2B730130E6914A2697C2F07972C5F521">9.回文数</a>
 
 # 数据结构
 
@@ -58,6 +64,9 @@
 
 
 # 网络
+
+* HTTP
+  * HTTP头部字段
 
 * 输入URL到页面显示发生了什么？
 * TCP的三次握手和四次挥手
