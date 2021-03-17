@@ -36,6 +36,7 @@
   * <a href="http://note.youdao.com/noteshare?id=9ce30b50c78f96b7d6fe4af4536f4df2&sub=FB22E20FF098437A95ECA97204C3F6E1">03.无重复字符的最大子串</a>
   * <a href="http://note.youdao.com/noteshare?id=39b2bc80b7f0b196b28264e90de1ef01&sub=782BCB6A78A240BD9EFAB219CF375FBC">25.K个一组翻转链表</a>
   * <a href="http://note.youdao.com/noteshare?id=efa47a02d0f5746c83a2a298f602b752&sub=CB4A3B8667E1408FBF9CF4081C542F0A">15.三数之和</a>
+  * <a href="http://note.youdao.com/noteshare?id=3a20a9f99b5001c8cf26c36ff67216dd&sub=CA640CD31AA44AA4AF659E6B326078CA">146.LRU 缓存机制</a>
 * 学校作业
   * <a href="http://note.youdao.com/noteshare?id=c983335d07100a6cf24296bf1fe0a0ed&sub=6C7BF5BF4B814907A203A5D79356D4A7">7.整数翻转</a>
   * <a href="http://note.youdao.com/noteshare?id=a2ca9c482bbb30188f571e18870411ae&sub=2B730130E6914A2697C2F07972C5F521">9.回文数</a>
